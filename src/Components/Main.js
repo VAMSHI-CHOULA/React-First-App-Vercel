@@ -31,11 +31,11 @@ class Main extends Component{
     id: "1",
     description: "Aliens???",
     imageLink: "https://s3.india.com/wp-content/uploads/2017/12/rocket.jpg"
-    }, {
+    }/*, {
     id: "2",
     description: "On a vacation!",
     imageLink: "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/08/24/104670887-VacationExplainsTHUMBWEB.1910x1000.jpg"
-    }]
+    }*/]
     }
         this.removePhoto =this.removePhoto.bind(this)
         console.log("constructor");
